@@ -1,0 +1,14 @@
+body {
+        background-color: powderblue;
+      }
+      h1   {
+        color: black;
+            font-family: verdana;
+            font-size: 300%;
+            text-align: center;
+            background-colour: DodgerBlue;
+            
+      }
+      p    {
+        color: black;
+      }
